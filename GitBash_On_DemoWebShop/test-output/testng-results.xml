@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Before Suite Started]]>
+    </line>
+    <line>
+      <![CDATA[Before Class Started]]>
+    </line>
+    <line>
+      <![CDATA[Before Method Started]]>
+    </line>
+    <line>
+      <![CDATA[After Method Started]]>
+    </line>
+    <line>
+      <![CDATA[After Class Started]]>
+    </line>
+    <line>
+      <![CDATA[After Suite Started]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-14T16:22:56 IST" name="Default suite" finished-at="2024-11-14T16:23:12 IST" duration-ms="16256">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T16:22:56 IST" name="Default test" finished-at="2024-11-14T16:23:12 IST" duration-ms="16256">
+      <class name="addToCart.TCID01_AddProductToCartBySearching_Test">
+        <test-method is-config="true" signature="itsBeforeSuite()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:22:56 IST" name="itsBeforeSuite" finished-at="2024-11-14T16:22:56 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Suite Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itsBeforeSuite -->
+        <test-method is-config="true" signature="itsBeforeClass()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:22:56 IST" name="itsBeforeClass" finished-at="2024-11-14T16:22:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Class Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itsBeforeClass -->
+        <test-method is-config="true" signature="itsBeforeMethod()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:22:56 IST" name="itsBeforeMethod" finished-at="2024-11-14T16:23:04 IST" duration-ms="7309" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itsBeforeMethod -->
+        <test-method signature="addProductToCart_Test()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:23:04 IST" name="addProductToCart_Test" finished-at="2024-11-14T16:23:09 IST" duration-ms="5452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart_Test -->
+        <test-method is-config="true" signature="itsAfterMethod()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:23:09 IST" name="itsAfterMethod" finished-at="2024-11-14T16:23:10 IST" duration-ms="1014" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itsAfterMethod -->
+        <test-method is-config="true" signature="itsAfterClass()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:23:10 IST" name="itsAfterClass" finished-at="2024-11-14T16:23:12 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Class Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itsAfterClass -->
+        <test-method is-config="true" signature="itsAfterSuite()[pri:0, instance:addToCart.TCID01_AddProductToCartBySearching_Test@6be968ce]" started-at="2024-11-14T16:23:13 IST" name="itsAfterSuite" finished-at="2024-11-14T16:23:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Suite Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itsAfterSuite -->
+      </class> <!-- addToCart.TCID01_AddProductToCartBySearching_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
